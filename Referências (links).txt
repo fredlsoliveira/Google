@@ -1,0 +1,8 @@
+
+------------------------------------------------------------------
+Documentação apps-script
+https://developers.google.com/apps-script
+
+------------------------------------------------------------------
+Documentação apps-script forms
+https://developers.google.com/apps-script/reference/forms
